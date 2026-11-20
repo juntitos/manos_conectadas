@@ -10,4 +10,4 @@
 python manos_conectadas.py
 ```
 
-`Ctrl+C` para salir. Usa una terminal de al menos 110×44 caracteres con colores (Windows Terminal, VS Code, macOS/Linux).
+`Ctrl+C` para salir. Maximiza la ventana de la terminal (se ajusta sola al tamaño) con colores (Windows Terminal, VS Code, macOS/Linux).
